@@ -18,7 +18,7 @@ My work sits at the intersection of engineering, business and automation: connec
 
 - AI-assisted engineering and consulting workflows
 - Connected facilities, asset management and Industrial IoT solutions
-- Microsoft 365 and Excel-based operational automation
+- Excel-based operational automation
 - Information governance, evidence traceability and controlled document production
 - Reusable tools that turn complex source material into decision-ready outputs
 
@@ -28,18 +28,13 @@ My work sits at the intersection of engineering, business and automation: connec
 | --- | --- |
 | Engineering | Telecommunications, RAN, microwave, TETRA/DMR, instrumentation, PLCs, SCADA, telemetry and Industrial IoT |
 | Automation | Python, PowerShell, JavaScript, Node.js and Excel automation |
-| Microsoft ecosystem | Excel, Word, PowerPoint, Project, Visio and OneDrive |
 | Delivery and assurance | Git, GitHub, requirements mapping, evidence registers, document control, automated validation and QA |
 
 ## How I work
 
 I favour evidence before assertion, clear ownership, traceable decisions and verification before release. The aim is not automation for its own sake; it is dependable delivery that people can review, operate and improve.
 
-Much of my consulting work is commercially sensitive, so the public projects shared here focus on reusable methods, sanitised examples and tools that can be applied across industries.
-
-## GitHub activity
-
-![Themba's GitHub stats](https://github-readme-stats.vercel.app/api?username=th3m8a&show_icons=true&hide_border=true&theme=transparent)
+Much of my consulting work is commercially sensitive, so the public projects shared here will focus on reusable methods, sanitised examples and tools that can be applied across industries.
 
 ## Let's connect
 

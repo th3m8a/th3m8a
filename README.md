@@ -1,4 +1,4 @@
-# Hi, I'm Themba (Themba) Matabiswana 👋
+# Hi, I'm Themba aka th3m8a 👋
 
 **Solutions Architect | Telecommunications, Industrial IoT & Operational Technology**
 

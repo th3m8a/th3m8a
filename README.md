@@ -38,7 +38,7 @@ Much of my consulting work is commercially sensitive, so the public projects sha
 
 ## Let's connect
 
-I am interested in practical collaboration around telecommunications, industrial digitalisation, systems integration, engineering automation and AI-enabled delivery. The best way to start a conversation is through [GitHub](https://github.com/th3m8a).
+I am interested in practical collaboration around telecommunications, industrial digitalisation, systems integration, engineering automation and AI-enabled delivery.
 
 ---
 

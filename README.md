@@ -8,7 +8,7 @@ My work sits at the intersection of engineering, business and automation: connec
 
 ## What I do
 
-- **Solutions architecture and systems integration** — telecommunications, radio, IP, telemetry, instrumentation, PLC/SCADA and Industrial IoT environments.
+- **Solutions architecture and systems integration** — telecommunications, radio, IP, telemetry, control & instrumentation, PLC/SCADA and Industrial IoT environments.
 - **Engineering automation** — Python, PowerShell and JavaScript/Node.js workflows for document generation, spreadsheet processing, validation and quality assurance.
 - **Technical proposals and bid engineering** — requirements traceability, compliance mapping, evidence control, solution narratives and submission-readiness checks.
 - **Project delivery** — technical scoping, design review, supplier evaluation, integration, testing, commissioning, documentation and operational handover.
@@ -26,7 +26,7 @@ My work sits at the intersection of engineering, business and automation: connec
 
 | Area | Technologies and methods |
 | --- | --- |
-| Engineering | Telecommunications, RAN, microwave, TETRA/DMR, instrumentation, PLCs, SCADA, telemetry and Industrial IoT |
+| Engineering | Telecommunications, RAN, microwave, TETRA/DMR, control & instrumentation, PLCs, SCADA, telemetry and Industrial IoT |
 | Automation | Python, PowerShell, JavaScript, Node.js and Excel automation |
 | Delivery and assurance | Git, GitHub, requirements mapping, evidence registers, document control, automated validation and QA |
 
